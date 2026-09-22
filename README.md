@@ -14,7 +14,7 @@ I use AI to build practical tools, starting with problems I encounter myself. I 
 
 **[Codex Quota](https://github.com/xixiba-ai/codex-quota-menubar)** — a macOS menu bar app for checking Codex quota and reset times.
 
-Open source, with a universal preview installer for Apple Silicon and Intel. Documentation is available in English and Simplified Chinese; the app interface is currently in Simplified Chinese.
+Open source, with a universal preview installer for Apple Silicon and Intel. The app and documentation support English and Simplified Chinese, with a language switch in the menu.
 
 [Project](https://github.com/xixiba-ai/codex-quota-menubar) · [Download preview](https://github.com/xixiba-ai/codex-quota-menubar/releases) · [Installation guide](https://github.com/xixiba-ai/codex-quota-menubar/blob/main/docs/INSTALL.en.md)
 
@@ -39,7 +39,7 @@ Questions and ideas are welcome in the relevant project's Issues. Remove account
 
 **[Codex Quota](https://github.com/xixiba-ai/codex-quota-menubar)** — 从 macOS 菜单栏查看 Codex 剩余额度和重置时间。
 
-现已开源，提供 Apple Silicon 和 Intel 通用预览版安装包。文档提供中英文版本；当前应用界面仍为简体中文。
+现已开源，提供 Apple Silicon 和 Intel 通用预览版安装包。应用与文档均支持中英文，可在菜单中切换语言。
 
 [查看项目](https://github.com/xixiba-ai/codex-quota-menubar/blob/main/README.zh-CN.md) · [下载预览版](https://github.com/xixiba-ai/codex-quota-menubar/releases) · [安装说明](https://github.com/xixiba-ai/codex-quota-menubar/blob/main/docs/INSTALL.md)
 
