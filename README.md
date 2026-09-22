@@ -1,28 +1,53 @@
-<img src="assets/avatar.jpg" width="88" height="88" alt="xixiba 的抽象 x 标志" />
+<img src="assets/avatar.jpg" width="88" height="88" alt="xixiba abstract x mark" />
 
 # Hi, I'm xixiba.
 
-**把日常的小麻烦，做成简单好用的工具。**
+[English](#english) · [简体中文](#简体中文)
 
-用 AI 辅助开发，从自己的使用场景出发，持续打磨实用的小工具。关注效率、简洁，也关注隐私。
+## English
 
-*Small tools for everyday work. Built with AI, refined through use.*
+**Small tools for everyday work — and the lessons from building them.**
+
+I use AI to build practical tools, starting with problems I encounter myself. I care about usefulness, simplicity, and privacy. This is where I share the projects and document how they take shape.
+
+### Working on
+
+**[Codex Quota](https://github.com/xixiba-ai/codex-quota-menubar)** — a macOS menu bar app for checking Codex quota and reset times.
+
+Open source, with a universal preview installer for Apple Silicon and Intel. Documentation is available in English and Simplified Chinese; the app interface is currently in Simplified Chinese.
+
+[Project](https://github.com/xixiba-ai/codex-quota-menubar) · [Download preview](https://github.com/xixiba-ai/codex-quota-menubar/releases) · [Installation guide](https://github.com/xixiba-ai/codex-quota-menubar/blob/main/docs/INSTALL.en.md)
+
+### What I care about
+
+- **Useful by default:** start with an everyday problem and make the tool easy to use.
+- **Clear about data:** explain what is read, where it comes from, and when the app connects to a service.
+- **Learning through building:** share practical decisions, release notes, and known limitations.
+- **Steady improvement:** use real feedback to decide what to improve next.
+
+Questions and ideas are welcome in the relevant project's Issues. Remove account details, tokens, and personal paths before sharing feedback.
+
+---
+
+## 简体中文
+
+**把日常的小麻烦做成实用工具，也分享构建过程中的收获。**
+
+用 AI 辅助开发，从自己遇到的问题出发，持续打磨实用的小工具。关注效率、简洁与隐私，在这里分享作品，也记录它们如何一步步做出来。
 
 ### 正在打磨
 
-**[Codex Quota](https://github.com/xixiba-ai/codex-quota-menubar)** · macOS 菜单栏额度工具
+**[Codex Quota](https://github.com/xixiba-ai/codex-quota-menubar)** — 从 macOS 菜单栏查看 Codex 剩余额度和重置时间。
 
-从菜单栏查看 Codex 剩余额度和重置时间，让工作安排更有数。现已开源，提供 macOS 通用预览版安装包。
+现已开源，提供 Apple Silicon 和 Intel 通用预览版安装包。文档提供中英文版本；当前应用界面仍为简体中文。
 
-[查看项目](https://github.com/xixiba-ai/codex-quota-menubar) · [下载预览版](https://github.com/xixiba-ai/codex-quota-menubar/releases) · [反馈问题](https://github.com/xixiba-ai/codex-quota-menubar/issues)
+[查看项目](https://github.com/xixiba-ai/codex-quota-menubar/blob/main/README.zh-CN.md) · [下载预览版](https://github.com/xixiba-ai/codex-quota-menubar/releases) · [安装说明](https://github.com/xixiba-ai/codex-quota-menubar/blob/main/docs/INSTALL.md)
 
 ### 我在意的事
 
-- **实用**：从真实遇到的问题开始，让工具融入日常工作。
-- **简洁**：让默认设置容易上手，让功能和说明都清楚。
-- **隐私**：说明数据来源、读取范围和联网行为，公开前检查敏感信息。
-- **持续打磨**：记录变化和已知问题，根据使用反馈改进。
-
-### 一起改进
+- **实用**：从日常问题开始，让默认设置容易上手。
+- **数据透明**：说明读取范围、数据来源和联网行为。
+- **边做边学**：分享实际取舍、版本变化和已知问题。
+- **持续打磨**：根据真实反馈，决定下一步改进什么。
 
 有问题或想法，欢迎在对应项目的 Issues 中交流。反馈时请隐去账号、令牌和个人路径。
