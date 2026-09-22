@@ -12,9 +12,9 @@
 
 **[Codex Quota](https://github.com/xixiba-ai/codex-quota-menubar)** · macOS 菜单栏额度工具
 
-从菜单栏查看 Codex 剩余额度和重置时间，让工作安排更有数。现已开源，可从源码构建使用。
+从菜单栏查看 Codex 剩余额度和重置时间，让工作安排更有数。现已开源，提供 macOS 通用预览版安装包。
 
-[查看项目](https://github.com/xixiba-ai/codex-quota-menubar) · [反馈问题](https://github.com/xixiba-ai/codex-quota-menubar/issues)
+[查看项目](https://github.com/xixiba-ai/codex-quota-menubar) · [下载预览版](https://github.com/xixiba-ai/codex-quota-menubar/releases) · [反馈问题](https://github.com/xixiba-ai/codex-quota-menubar/issues)
 
 ### 我在意的事
 
